@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/albertorodrig0/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https:/https://www.linkedin.com/in/alberto-rodrigo-7594b219a/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/alberto-rodrigo-7594b219a" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
